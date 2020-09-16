@@ -13,7 +13,7 @@ Full Stack Software Developer living in Copenhagen, Denmark!
 
 <img src="https://odino.org/images/mssql-logo.png" width=120/>
 
-## And much more!
+### And much more!
 
 # Visitors:
 

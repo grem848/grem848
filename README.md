@@ -15,6 +15,6 @@ Full Stack Software Developer living in Copenhagen, Denmark!
 
 ### And much more!
 
-# Visitors:
+# Profile Views:
 
-![Visitor Count](https://profile-counter.glitch.me/grem848/count.svg)
+![Profile Views Counter](https://profile-counter.glitch.me/grem848/count.svg)

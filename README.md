@@ -1,7 +1,5 @@
 # Welcome to my profile 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grem848&count_private=true&show_icons=true&theme=tokyonight)
-
 # Info
 
 Software Engineer living in Copenhagen, Denmark!
